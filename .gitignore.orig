@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+local_settings*
+=======
+=======
+>>>>>>> 4490912c81cc972c1ca45980274013d9695931fe
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -55,7 +61,11 @@ docs/_build/
 
 # PyBuilder
 target/
+<<<<<<< HEAD
+>>>>>>> 1fae75a910ce6cd119390df9a79616360a51ba30
+=======
 
 #Local
 local_settings*
 z_misc/
+>>>>>>> 4490912c81cc972c1ca45980274013d9695931fe
